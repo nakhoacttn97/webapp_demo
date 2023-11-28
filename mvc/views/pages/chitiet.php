@@ -1,0 +1,1 @@
+<h1>Trang chi tiet</h1>
